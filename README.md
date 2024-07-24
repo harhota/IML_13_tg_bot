@@ -11,6 +11,7 @@ You need to obtain a token for access to your bot's HTTP API:
 3. Enter the project name and bot name
 4. Copy the received token
 5. Add recieved token to .env : ```echo "TELEGRAM_BOT_TOKEN=your_key" > .env```
+6. Success!
 	
 
 ### Open AI Token
