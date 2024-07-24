@@ -40,8 +40,15 @@ telegram_chatbot_boilerplate/
 │
 ├── app.py
 ├── Dockerfile
+├── docker-compose.yml
 ├── .env
 └── requirements.txt
 ```
+config/ - configuration files
+handlers/ - message and command handlers
+utils/ - helper functions
+app.py - main application file
+Dockerfile - script for creating Docker image
+requirements.txt - project dependencies
 
 acknowledgment: this example was ispired by https://github.com/dimadem/telegram_chatbot_boilerplate/tree/main
