@@ -17,7 +17,7 @@ You need to obtain a token for access to your bot's HTTP API:
 You need to obtain an Open AI token. 
 
 1. Please follow the instruction provided by openai to receive your token.
-2. Add recieved token to .env: ```echo "OPENAI_API_KEY=your_key" >> .env``
+2. Add recieved token to .env: ```echo "OPENAI_API_KEY=your_key" >> .env```
 
 ## Project Structure
 
